@@ -1,0 +1,10 @@
+
+train: /content/YOLO_Dataset/images/train
+val: /content/YOLO_Dataset/images/valid
+
+nc: 3
+
+names:
+  0: free_parking_space
+  1: partially_free_parking_space
+  2: not_free_parking_space

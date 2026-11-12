@@ -1,0 +1,16 @@
+# Ignore large files (> 100 MB not allowed on GitHub)
+*.zip
+
+# Virtual Environments
+*venv*/
+venv/
+env/
+ENV/
+
+# Dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
